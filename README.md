@@ -17,6 +17,9 @@
 <br><br>
 <p>Then Click Extensions</p>
 <img src="images/extension.jpg" alt="screenshots">
+<br><br>
+<p>Then Enable Developer Mode. If already enabled ignore it.</p>
+<img src="images/en_dev_mode.jpg" alt="en_dev_mode.jpg">
 
 <div align="center"> <h1>How To Donwload Zip</h1> </div>
 
