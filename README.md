@@ -23,7 +23,7 @@
 <br><br>
 <p>Then Click <b>+form.zip/.crx/user.js</b></p>
 <img src="images/add_zip.jpg" alt="add_zip.jpg">
-<p><b>Add <a href="#how-to-download-zip">Zip</a> File.<a href="#how-to-download-zip">Zip</a> file download link provided <a href="#how-to-download-zip">here.</a> </b></p>
+<p><b>Add <a href="https://github.com/Aru-Ofc-git/facebook-account-name-change#how-to-donwload-zip">Zip</a> File.<a href="https://github.com/Aru-Ofc-git/facebook-account-name-change#how-to-donwload-zip">Zip</a> file download link provided <a href="https://github.com/Aru-Ofc-git/facebook-account-name-change#how-to-donwload-zip">here.</a> </b></p>
 
 # Step 4
 <p><b>Again Click 3 dots in the right side in top</b></p>
@@ -47,7 +47,7 @@
 [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://bit.ly/facebook-name-change)
 
 
-
+<br><br><br><br><br><br>
 
 
 `` 📡 Get in Touch `` 
