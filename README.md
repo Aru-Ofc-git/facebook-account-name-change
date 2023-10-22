@@ -13,9 +13,10 @@
 
 # Step 3
 <p>Then Click 3 dots in the right side in top</p>
-<img src="https://i.ibb.co/z83wBQ3/20231023-010950.jpg" alt="screenshots">
+<img src="images/3dots.jpg" alt="screenshots">
+<br><br>
 <p>Then Click Extensions</p>
-<img src="https://i.ibb.co/q7f49vc/20231023-011152.jpg" alt="screenshots">
+<img src="images/extension.jpg" alt="screenshots">
 
 <div align="center"> <h1>How To Donwload Zip</h1> </div>
 
