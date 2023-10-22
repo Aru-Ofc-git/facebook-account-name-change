@@ -20,6 +20,9 @@
 <br><br>
 <p>Then Enable Developer Mode. If already enabled ignore it.</p>
 <img src="images/en_dev_mode.jpg" alt="en_dev_mode.jpg">
+<br><br>
+<p>Then Click <b>+form.zip/.crx/user.js</b></p>
+<img src="images/add_zip.jpg" alt="add_zip.jpg">
 
 <div align="center"> <h1>How To Donwload Zip</h1> </div>
 
