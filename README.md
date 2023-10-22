@@ -33,6 +33,16 @@
 <img src="images/run_ext.jpg" alt="screenshots">
 <br><br>
 <p>Then Enter Your New First and Last name. Then Click Change Name <br> <b>Note: <i>You Can use Emoji and Black Verification Symbol(󱢏) in your Name.</i></b></p>
+<img src="images/change_c.jpg" alt="screenshots">
+<br><br>
+<p> Then Click <b>Yes</b></p>
+<img src="images/conform.jpg" alt="screenshots">
+<br><br>
+<p>If You Show <b>Name changed Successfully</b> Your Name Successfully Changed.</p>
+<img src="images/changed.jpg" alt="screenshots">
+
+
+
 
 <div align="center"> <h1>How To Donwload Zip</h1> </div>
 
